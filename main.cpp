@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
 
-void mergeSort()
+void quickSort()
 {
-    // merge sort added.   
+    // quick sort added.   
 }
 
 int main()
