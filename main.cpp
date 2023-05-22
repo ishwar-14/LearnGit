@@ -2,11 +2,18 @@
 using namespace std;
 
 
+
 void quickSort()
 {
     // quick sort added.   
 }
 
+
+
+void mergeSort()
+{
+    //merge sort added..
+}
 
 int main()
 {
