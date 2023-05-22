@@ -2,7 +2,10 @@
 using namespace std;
 
 
-
+int fun()
+{
+    
+}
 void quickSort()
 {
     // quick sort added.   
