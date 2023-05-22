@@ -1,11 +1,11 @@
 #include<iostream>
 using namespace std;
 
+
 void mergeSort()
 {
-    // merge sort added.   
+    //merge sort added..
 }
-
 int main()
 {
     return 0;
